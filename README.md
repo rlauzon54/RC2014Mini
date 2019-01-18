@@ -1,5 +1,5 @@
 # RC2014Mini
-A collection of BASIC programs I've ported to the RC2014Mini
+A collection of BASIC programs for the RC2014Mini.  Some I've just collected.  Others I've converted from other systems.
 
 amazing.bas - Maze generator
 
